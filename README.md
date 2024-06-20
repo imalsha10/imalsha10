@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **picolambage@gmail.com**
 
-- ⚡ Fun fact **- Fun fact: When I'm not coding, you can find me reading a good book or experimenting with new recipes in the kitchen.**
+- ⚡ Fun fact : When I'm not coding, you can find me reading a good book or experimenting with new recipes in the kitchen.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
