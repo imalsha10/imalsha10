@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Imalsha Colambage</h1>
-<h3 align="center">I’m passionate about frontend development, crafting beautiful and responsive user experiences.</h3>
+<h3 align="center">I am passionate about QA, ensuring software quality through meticulous testing and issue resolution.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.kibrispdr.org/data/14/coding-gif-24.gif">
 
 
 
 - 🔭 I’m currently working on [Healthcare System](https://github.com/Senash0813/HealthCare-App)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SELENIUM**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **Software Testing and Quality Assurance**
 
 - 📫 How to reach me **picolambage@gmail.com**
 
